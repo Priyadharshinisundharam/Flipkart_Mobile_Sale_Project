@@ -10,9 +10,4 @@ This project analyzes mobile phone sales data from Flipkart. It includes raw dat
 - Exploratory Data Analysis (EDA): summary statistics, distributions, correlations.
 - Visualizations: plots for brand popularity, price distributions, rating vs price trends, etc.
 - Insights: e.g. which brands have the highest discounts or best ratings.
-## Contributing
 
-Contributions are welcome! Feel free to:
-- Improve data cleaning steps or visualizations.
-- Add notebooks for deeper insights or modeling.
-- Raise issues or open pull requests.
