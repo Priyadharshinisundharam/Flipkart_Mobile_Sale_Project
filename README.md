@@ -1,9 +1,9 @@
 # Flipkart Mobile Sale Project
 This project analyzes mobile phone sales data from Flipkart. It includes raw datasets (Excel files), a cleaned dataset, and a Jupyter Notebook (`Flipkart _Mobile.ipynb`) with data cleaning, exploration, and analysis pipelines.
 # Project Structure
-Flipkart_Mobiles.xlsx           # Raw mobile sales data
-Flipkart_Mobiles Dataset.xlsx   # Additional or processed raw data
-Flipkart_Mobiles Cleaned data.xlsx  # Cleaned and preprocessed dataset
+**Flipkart_Mobiles.xlsx**          # Raw mobile sales data
+**Flipkart_Mobiles Dataset.xlsx**   # Additional or processed raw data
+**Flipkart_Mobiles Cleaned data.xlsx**  # Cleaned and preprocessed dataset
 ## Analysis Overview
 
 - Data cleaning: handling missing values, formatting, and consistency.
